@@ -17,5 +17,13 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+          <dependencies>
+           <dependency>
+      <groupId>com.lesfurets</groupId>
+      <artifactId>jenkins-pipeline-unit</artifactId>
+      <version>1.1</version>
+      <scope>test</scope>
+    </dependency>
+                    </dependencies>
 
 </project>
